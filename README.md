@@ -116,5 +116,10 @@ A screen-recorded demonstration showcases the configuration, role switching, mem
 This project demonstrates a practical approach to building a personalized AI assistant using structured instructions, persistent context, dynamic expertise, and workspace-aware behavior.
 
 ---
+---
+
+## 📸 Console Output
+
+![Hermes Agent Console Output](documentation/hermes_console_output.png)
 
 *Developed as part of the Social Eagle AI GenAI and Agentic AI learning journey.*
